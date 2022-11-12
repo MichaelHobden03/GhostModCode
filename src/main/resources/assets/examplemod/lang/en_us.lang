@@ -1,0 +1,6 @@
+item.ghost_essence.name=Ghost Essence
+item.helmet_ghost.name=Ghost Helmet
+item.chestplate_ghost.name=Ghost Chestplate
+item.leggings_ghost.name=Ghost Leggings
+item.boots_ghost.name=Ghost Boots
+entity.ghost.name=Ghost

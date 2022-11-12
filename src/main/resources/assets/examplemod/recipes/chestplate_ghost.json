@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "g g",
+    "ggg",
+    "ggg"
+  ],
+
+  "key":
+  {
+    "g":
+    {
+      "item": "examplemod:ghost_essence"
+    }
+  },
+
+  "result":
+  {
+    "item":  "examplemod:chestplate_ghost",
+    "count": 1
+  }
+}

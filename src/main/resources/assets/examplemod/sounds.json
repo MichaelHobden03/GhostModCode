@@ -1,0 +1,22 @@
+{
+  "entity.ghost.ghost_ambient":
+  {
+    "category": "entity",
+    "subtitle": "entity.ghost.ghost_ambient",
+    "sounds": [{ "name": "examplemod:entity/ghost/ghost_ambient", "stream": true }]
+  },
+
+  "entity.ghost.ghost_hurt":
+  {
+    "category": "entity",
+    "subtitle": "entity.ghost.ghost_hurt",
+    "sounds": [{ "name": "examplemod:entity/ghost/ghost_hurt", "stream": true }]
+  },
+
+  "entity.ghost.ghost_death":
+  {
+    "category": "entity",
+    "subtitle": "entity.ghost.ghost_death",
+    "sounds": [{ "name": "examplemod:entity/ghost/ghost_death", "stream": true }]
+  }
+}
